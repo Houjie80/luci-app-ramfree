@@ -9,7 +9,7 @@ LUCI_TITLE:=LuCI support for ramfree
 LUCI_PKGARCH:=all
 
 PKG_NAME:=luci-app-ramfree
-PKG_VERSION:=1.1
+PKG_VERSION:=1.2.3
 PKG_RELEASE:=1
 
 include $(TOPDIR)/feeds/luci/luci.mk
