@@ -89,10 +89,10 @@ jobs:
           file: ./release/*
           overwrite: true
           prerelease: true
-          tag: neko-dev
+          tag: dev
           file_glob: true
           body: |
-            # LUCI APP NEKO DEV
+            # LUCI APP RAMFREE
             Simple Clash TUN based Proxy
             ### Information
             - Changelog : 
